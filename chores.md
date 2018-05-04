@@ -11,6 +11,9 @@
 | Vegetables | 2 |
 | Football training | 3 |
 | Football match | 5 |
-
+| Cricket training | 3 |
+| Swimming practice | 2 |
+| Footbal tournament | 10 |
+| Clean inside one large window | 4 |
 
 Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
