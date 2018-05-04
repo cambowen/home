@@ -8,3 +8,9 @@
 | Compost | 1 |
 | Recycling | 2 |
 | Bins | 2 |
+| Vegetables | 2 |
+| Football training | 3 |
+| Football match | 5 |
+
+
+Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
