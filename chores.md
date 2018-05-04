@@ -20,5 +20,7 @@
 | 10 house points | 3 |
 | Sing carols | 8 |
 | Harvest Festival | 1 |
+| Tidy room | 1 |
+| Hoover a room | 1 |
 
 Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
