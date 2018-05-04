@@ -1,6 +1,7 @@
 # Chores
 
 | Chore | Score |
+| ----- | ---- |
 | Dishwasher | 4 |
 | Lawn - back | 4 |
 | Lawn - front | 2 |
