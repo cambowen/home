@@ -15,5 +15,10 @@
 | Swimming practice | 2 |
 | Footbal tournament | 10 |
 | Clean inside one large window | 4 |
+| Guitar lesson | 2 |
+| Football after school | 2 |
+| 10 house points | 3 |
+| Sing carols | 8 |
+| Harvest Festival | 1 |
 
 Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
