@@ -22,5 +22,6 @@
 | Harvest Festival | 1 |
 | Tidy room | 1 |
 | Hoover a room | 1 |
+| Work out how to change this list | 10 |
 
 Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
