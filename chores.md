@@ -19,7 +19,7 @@
 | Football after school | 2 |
 | 10 house points | 3 |
 | Sing carols | 8 |
-| Harvest Festival | 1 |
+| Harvest Festival | 3 |
 | Tidy room | 2 |
 | Hoover a room | 2 |
 | Work out how to change this list | 10 |
