@@ -22,5 +22,6 @@
 | Harvest Festival | 3 |
 | Tidy room | 2 |
 | Hoover a room | 2 |
+| Hack github| 15 |
 
 Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
