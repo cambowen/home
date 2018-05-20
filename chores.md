@@ -3,8 +3,7 @@
 | Chore | Score |
 | ----- | ---- |
 | Dishwasher | 4 |
-| Lawn - back | 4 |
-| Lawn - front | 2 |
+|both lawns| 10 |
 | Compost | 1 |
 | Recycling | 2 |
 | Bins | 2 |
@@ -24,4 +23,4 @@
 | Hoover a room | 2 |
 | Hack github| 15 |
 
-Fortnite: 5 mins per point, bonus 5 minutes if you get 5 points
+Fortnite:10 mins per point, bonus 5 minutes if you get 6 points
