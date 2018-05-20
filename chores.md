@@ -3,8 +3,7 @@
 | Chore | Score |
 | ----- | ---- |
 | Dishwasher | 4 |
-| Lawn - back | 4 |
-| Lawn - front | 2 |
+| Both Lawns | 10 |
 | Compost | 1 |
 | Recycling | 2 |
 | Bins | 2 |
